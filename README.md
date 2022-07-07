@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning flask
 - 👯 I’m looking to collaborate on DataScience challenges
 - 💬 Let's discuss Machine-Learning and DataScience stuff.
-- 📫 How to reach me: dm me on twitter 👉🏼[@kurmapu_loki](https://twitter.com/Kurmapu_Loki),  Linkedin 👉🏼 [Lokesh](https://www.linkedin.com/in/lokesh-sai-kurmapu-8ba6301a6/), mail me 👉🏼 kurmapu000@gmail.com,
+- 📫 How to reach me: dm me on twitter 👉🏼[@kurmapu_loki](https://twitter.com/Kurmapu_Loki),  Linkedin 👉🏼 [Lokesh](https://www.linkedin.com/in/lokesh-sai-kurmapu), mail me 👉🏼 kurmapu000@gmail.com,
 - 😄 Pronouns: He/his
 - ⚡ Btw I love anime, cricket, cosmic theories.
